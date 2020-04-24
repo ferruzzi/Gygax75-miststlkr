@@ -4,7 +4,8 @@
 
 Link to the challenge (Free download): https://rayotus.itch.io/gygax75
 
- - [Week 1: Concept](WEEK1-NOTES.md)
+ - [Week 1: Concept](week1-notes.html)
+ - [Week 1: Concept MD](week1-notes.md)
  - Week 2: Surrounding Area
  - Week 3: The Dungeon
  - Week 4: Town Features
