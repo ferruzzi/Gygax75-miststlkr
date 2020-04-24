@@ -1,9 +1,3 @@
----
-layout: page
-title: "Week 1 Notes"
-permalink: /week1-notes/
----
-
 # Concepts
  1. Modern age urban fantasy set in the real world
  2. All players are human or fey half-breeds who can pass as human
