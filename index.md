@@ -1,8 +1,7 @@
-# Gygax75-Challenge-miststlkr
+# Gygax75 Challenge
+_Create an RPG campaign setting in five weeks!_
 
-**The Gygax 75 Challenge**: Create an RPG campaign setting in five weeks!
-
-Link to the challenge (Free download): https://rayotus.itch.io/gygax75
+Link to the challenge (free download): https://rayotus.itch.io/gygax75
 
  - [Week 1: Concept](week1/week1-notes.html)
  - Week 2: Surrounding Area
