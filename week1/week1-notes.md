@@ -31,6 +31,17 @@
  - SR includes Drain as a cost of casting
  - A skill-point based build system allows custom characters without locking players into the very few remaining classes
  - I really like the SR rules for Qualities and Flaws  
+ 
+# Spell concept examples
+This may be an entire future project, but as an example:
+ - Firebringer - A (non-explosive) ball of flame about the size of a baseball that can be thrown
+   - Base: Fire
+     - Starting Attributes: Duration, Movable
+     - Level 2 Upgrade: Damage Upgrade
+     - Level 3 Upgrade: Movable (add speed)
+     - Level 4 Upgrade: Movable (add range)
+     - Level 5 Upgrade: AoE (explodes on command)  
+     - Level 6 Upgrade: AoE (larger radius)
   
 # Questions
  - Why on earth would anyone play this?  Sample character concepts:
