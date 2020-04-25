@@ -22,19 +22,26 @@
    - Some thematic elements as far as a band of underdog rebels on the lam fighting The Man 
 
 # Base System
-  Character generation will be based on Shadowrun 3rd Edition without the option for cyber-/bio-tech or metahumans. 
-  The magic system will be generalized in order to make it more customizable, possibly based off the power design system in Champions
-  
-#### Advantages for picking SR3
- - The low magic restrictions basically kill any system designed for fantasy
- - SR includes Drain as a cost of casting which is a key point of this system
+  Currently looking into various superhero systems to find one I like as the envisioned magic system is more akin to a
+   superhero than to a magic caster in most settings.
+   
+#### System Considerations/Goals
+ - The low magic restrictions basically kill any system designed for fantasy worlds
+ - Shadowrun includes Drain (mental strain/damage) as a cost of casting which is a key point of this system
  - A skill-point based build system allows custom characters without locking players into the very few remaining classes
  - I really like the SR Qualities and Flaws character generation rules
- - In general, it's a simple system.  Attribute + Skill = number of d6 to roll.  Every 5 or 6 is a success, every 1 is a fail.  Roll more successes than fails to pass, or if it's contested, roll more successes than the opponent.
-#### Disdvantages for picking SR3
-  - Not a popular system
-  - Buckets of d6s
-  - Removing basically everything "cyber" from a cyberpunk game may be more difficult than just pulling it out of the setting, it may result in an inherently unbalanced game
+ - Powers should be able to evolve as play progresses
+ 
+### Systems that folks have suggested
+ - **HERO/Champions**
+   - Very open power system based on points to build a power, this sounds pretty close to what I have in mind
+   - There is a street-level companion book which might be perfect, needs research
+   - Powers cost Endurance to use 
+ - **Mutants and Masterminds**
+   - Super crunchy, lots of math and mechanics
+ - **City of Mist**
+   - A modern world noir superpower game.  This actually sounds pretty ideal thematically
+   - Looking at the character generation rules, they are a bit too loose for my taste
  
 # Spell concept examples
 This may be an entire future project, but as an example:
