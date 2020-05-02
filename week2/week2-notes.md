@@ -1,4 +1,4 @@
-<script> document.getElementById("project_title").innerHTML = "A Zoph Project"; </script>
+<script src="{{site.url}}/assets/javascript/script.js"></script>
 
 <div align="center">
  <a href ="{{site.url}}/week1/week1-notes.html">Week 1: Concepts</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
