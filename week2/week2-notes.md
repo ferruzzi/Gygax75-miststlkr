@@ -7,7 +7,7 @@
 </div>
 
 # Week 2: The Surrounding Area - <span style="font-size:large;">Map the land around the dungeon and town</span>
-######__Note 1__:  As this is an urban setting, I'll have to change this up a little.  Rather than mapping out the area
+###### __Note 1__:  As this is an urban setting, I'll have to change this up a little.  Rather than mapping out the area
  surrounding a town and a dungeon entrance, I'll map out a neighborhood and points of interest.
   
 __Note 2__: I attempted the extra credit step of "pimp your map using coffee stains and burning the edges a little
