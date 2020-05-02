@@ -1,1 +1,1 @@
-document.getElementById("project_title").innerHTML = "A Zoph Project";
+document.getElementById("project_title").innerHTML = "Unnamed  Project";
