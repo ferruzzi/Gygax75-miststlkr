@@ -9,11 +9,16 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  border: 5px solid black;
-  border-radius: 50%;
+  border-style: solid;
+  border-color: #ddd;
+  border-width: 5px;
 }
 
 p {
-  color: blue;
-  text-indent: 5em;
+  color: green;
+  text-indent: 3em;
+}
+
+h4 {
+  text-indent: 1em;
 }
