@@ -6,4 +6,4 @@ __Note:__ I attempted the extra credit step of "pimp your map using coffee stain
  soaked my monitor in coffee for an hour then charred the edges.  I do not recommend this step.
  
 
- <img src="https://sjworthington.files.wordpress.com/2014/08/new-orleans-redo-beige.jpg" class="inline"">
+ <img src="{{site.url}}/images/new-orleans-redo-beige.jpg" style="display:block; margin:auto;" />
