@@ -1,6 +1,7 @@
 <div align="center">
- <a href ="{{site.url}}/week1/week1-notes.md">Week 1: Concepts</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
- <a href="{{site.url}}/index.md">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ <a href ="{{site.url}}/week1/week1-notes.html">Week 1: Concepts</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+ ;&nbsp;&nbsp; 
+ <a href="{{site.url}}/index.html">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
  Week 3: Coming Soon
 </div>
 
