@@ -1,4 +1,4 @@
-#The Surrounding Area - <span style="font-size:large;">Map the land around the dungeon and town</span>
+# The Surrounding Area - <span style="font-size:large;">Map the land around the dungeon and town</span>
 __Note__:  As this is an urban setting, I'll have to change this up a little.  Rather than mapping out the area
  surrounding a town and a dungeon entrance, I'll map out a neighborhood and points of interest.
   
