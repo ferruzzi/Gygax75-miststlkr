@@ -1,7 +1,6 @@
 ---
 ---
-
-@import "{{ jekyll-theme-slate }}";
+@import "{{ site.theme }}";
 .inner {
   max-width: 1080px;
 }
