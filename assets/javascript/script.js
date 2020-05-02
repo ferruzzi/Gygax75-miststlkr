@@ -1,5 +1,1 @@
-$().ready(function(){
-  $("#project_title").html("Zoph's Challenge");
-}
-
-document.write(Date());
+document.getElementById("project_title").innerHTML = "A Zoph Project";
