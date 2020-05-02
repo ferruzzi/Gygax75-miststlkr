@@ -19,3 +19,5 @@ Our adventure will take place in modern New Orleans, focusing initially on [The 
  <img src="{{site.url}}/images/garden-district.png" />
  <img src="{{site.url}}/images/french-quarter.png" />
 
+### Places of Interest
+ 
