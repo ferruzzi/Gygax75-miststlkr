@@ -1,4 +1,4 @@
-# Concepts
+# Concepts - <span style="font-size:smaller;">Articulate the big ideas and gather sources</span>
  1. Gritty modern age urban fantasy set in the real world
  2. All players are human or fey half-breeds who can pass as human
     - The choice has no effect on stats
@@ -20,7 +20,9 @@
  - The Black Company
    - Sorcerers are powerful mostly-one-trick ponies who need other skills to remain useful
  - The Matrix
-   - Some thematic elements as far as a band of underdog rebels on the lam fighting The Man 
+   - Some thematic elements as far as a band of underdog rebels on the lam fighting The Man
+ - Hellboy
+   - The Troll Market where there is a thriving market of/for/by non-humans right under our noses
 
 # Questions
  - Why on earth would anyone play this?  Sample character concepts:
