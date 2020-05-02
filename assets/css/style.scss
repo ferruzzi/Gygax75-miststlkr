@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "{{ jekyll-theme-slate }}";
 .page {
   width: calc(100% - #{$right-sidebar-width-narrow});
 }
