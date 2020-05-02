@@ -16,8 +16,12 @@ Our adventure will take place in modern New Orleans, focusing initially on [The 
  and the [Irish Channel](https://en.wikipedia.org/wiki/Irish_Channel,_New_Orleans#History).
 
 ### Places of Interest
-<p>Lots, Many, and All
-</p>
+Lots, Many, and All
+
+#### Crescent City Books
+
+
+
 
 ### Maps
  <img src="{{site.url}}/images/new-orleans-redo-beige.jpg" />
