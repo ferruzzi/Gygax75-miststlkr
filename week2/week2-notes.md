@@ -16,9 +16,23 @@ Our adventure will take place in modern New Orleans, focusing initially on [The 
  and the [Irish Channel](https://en.wikipedia.org/wiki/Irish_Channel,_New_Orleans#History).
 
 ### Places of Interest
-Lots, Many, and All
-
-#### Crescent City Books
+#### Crescent City Used Books
+Location: Magazine and Fourth
+Interest: Run by a half-fey who keeps an impressive collection of arcane books in the back room for those who know to
+ ask. 
+#### Riverwalk Market
+Location: Public Entrance: Poyrdas St and Canal St (technically off the map, see description)
+Interest: Three floors of shopping on the old wharf.  The public ground/entrance floor contains mainly a collection of
+ shops selling various crafts aimed at the many tourists.  The upper floor is made up predominantly of food vendors and restaurants taking
+ advantage of the elevation to show views of the Mississippi River.  One floor down from the entrance is a bit more
+ eccentric, filled with niche specialty shops who can only survive because of the lower rent of the underground
+ location on the waterfront.  All three floors are connected by a confusing series of ramps rather than stairs or
+ elevators.   This has made it possible to obscure the fact that if you know where to look, one ramp will lead
+ down further into The Submarket.  Shops in The Submarket cater to the Others and get increasing more esoteric.  It
+ consists of several more floors of shops and dining, well below the point where you should be in the river.  There
+ is a direct entrance to this section through a basement door in the old ferry terminal at the end of Jackson Street.
+    
+#### 
 
 
 
