@@ -1,5 +1,7 @@
-[Home](../index.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[Week 2: Surrounding Area](../week2/week2-notes.md)
+<div align="center"> 
+ <a href="{{site.url}}/index.md">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ <a href="{{site.url}}/week2/week2-notes.md">Week 2: Surrounding Area</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
 
  
 # Week 1: Concepts <br /> <span style="font-size:large;">Articulate the big ideas and gather sources</span>
