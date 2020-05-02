@@ -16,15 +16,15 @@ Our adventure will take place in modern New Orleans, focusing initially on [The 
  and the [Irish Channel](https://en.wikipedia.org/wiki/Irish_Channel,_New_Orleans#History).
 
 ### Places of Interest
-#### Crescent City Used Books
-**Location**: Magazine St and Fourth St
+#### Crescent City Used Books 
+**Location**: (fictional) Magazine St and Fourth St
 
 **Public Interest**: A used book store run by a kindly old widower who will talk your ear off. 
 
 **Special Interest**: Run by a half-fey who keeps an impressive collection of Special Interest books in the back
  room for those who know to ask.
   
-#### Riverwalk Market (Actually based more off Seattle's Pike Place Market)
+#### Riverwalk Market <span style="font-size:medium;">(Actually based more off Seattle's Pike Place Market)</span>
 **Location**: Poydras St and Canal St (technically off the map, see description)
 
 **Public Interest**: Three floors of shopping on the old wharf.  The public ground/entrance floor contains mainly a
@@ -64,29 +64,39 @@ Our adventure will take place in modern New Orleans, focusing initially on [The 
 
 #### Christ Church Cathedral ([images](https://tinyurl.com/y7kp2xes))
 **Location**: St Charles Ave at Sixth St
+
 **Public Interest**: The Christ Church Cathedral is the first non-Roman Catholic Church in the state of Louisiana. The
  church, originally erected in 1816 at Canal and Bourbon Streets, was redesigned three times to compensate its growing 
  membership. Architect Lawrence B. Valk designed the current church in 1886.
+
 **Special Interest**:
 
 #### Call out the Anne Rice mansion just because??
 **Location**:
+
 **Public Interest**:
+
 **Special Interest**:
 
 #### 8
 **Location**:
+
 **Public Interest**:
+
 **Special Interest**:
 
 #### 9
 **Location**:
+
 **Public Interest**:
+
 **Special Interest**:
 
 #### 10
 **Location**:
+
 **Public Interest**:
+
 **Special Interest**:
 
 
