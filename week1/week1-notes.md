@@ -1,11 +1,8 @@
-<table width="100%"> 
-   <tr>
-     <td>[Home](../index.md)</td>
-     <td>[Week 2: Surrounding Area](../week2/week2-notes.md)</td>
-   </tr>
-</table>
+[Home](../index.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Week 2: Surrounding Area](../week2/week2-notes.md)
+
  
-# Concepts - <span style="font-size:large;">Articulate the big ideas and gather sources</span>
+# Week 1: Concepts - <span style="font-size:large;">Articulate the big ideas and gather sources</span>
  1. Gritty modern age urban fantasy set in the real world
  2. All players are human or fey half-breeds who can pass as human
     - The choice has no effect on stats
