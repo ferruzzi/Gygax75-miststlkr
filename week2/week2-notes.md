@@ -1,5 +1,4 @@
-<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-<script src="../assets/javascript/script.js"></script>
+<script src="{{site.url}}/assets/javascript/script.js"></script>
 
 <div align="center">
  <a href ="{{site.url}}/week1/week1-notes.html">Week 1: Concepts</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
