@@ -1,4 +1,4 @@
-<script src="{{site.url}}/assets/javascript/script.js"></script>
+<script src="{{site.assets}}/javascript/script.js"></script>
 
 <div align="center">
  <a href ="{{site.url}}/week1/week1-notes.html">Week 1: Concepts</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -7,11 +7,11 @@
 </div>
 
 # Week 2: The Surrounding Area - <span style="font-size:large;">Map the land around the dungeon and town</span>
-__Note__:  As this is an urban setting, I'll have to change this up a little.  Rather than mapping out the area
+######__Note 1__:  As this is an urban setting, I'll have to change this up a little.  Rather than mapping out the area
  surrounding a town and a dungeon entrance, I'll map out a neighborhood and points of interest.
   
-__Note:__ I attempted the extra credit step of "pimp your map using coffee stains and burning the edges a little".  I
- soaked my monitor in coffee for an hour then charred the edges.  I do not recommend this step.
+__Note 2__: I attempted the extra credit step of "pimp your map using coffee stains and burning the edges a little
+".  I soaked my monitor in coffee for an hour then charred the edges.  I do not recommend this step.
  
 ## Setting
 Our adventure will take place in modern New Orleans, focusing initially on
@@ -79,7 +79,7 @@ Our adventure will take place in modern New Orleans, focusing initially on
 **Special Interest**:  
 
 #### Anne Rice Mansion ([images](https://tinyurl.com/ycxahccy))
-**Location**: Napolean Ave at Prytania
+**Location**: Napolean Ave at Prytania St
 
 **Public Interest**: The home that Anne Rice lived in while writing _Interview With The Vampire_ and other novels.
 
@@ -101,7 +101,7 @@ Our adventure will take place in modern New Orleans, focusing initially on
 **Special Interest**: Use the underground entrance through the adjacent Montiero Park for an even more exciting
  selection  
 
-#### Langenstein's Antiques
+#### Landreneau's Antiques
 **Location**: (fictional) Magazine St at General Pershing St
 
 **Public Interest**: An antique shop absolutely packed with all sorts of random ~~junk~~ treasures of every

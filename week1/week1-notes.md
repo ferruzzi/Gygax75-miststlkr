@@ -1,4 +1,4 @@
-<script src="{{site.url}}/assets/javascript/script.js"></script>
+<script src="{{site.assets}}/javascript/script.js"></script>
 
 <div align="center"> 
  <a href="{{site.url}}/index.html">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
