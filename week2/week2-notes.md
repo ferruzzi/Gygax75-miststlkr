@@ -15,9 +15,13 @@ __Note:__ I attempted the extra credit step of "pimp your map using coffee stain
 Our adventure will take place in modern New Orleans, focusing initially on [The Garden District](https://en.wikipedia.org/wiki/Garden_District,_New_Orleans#History)
  and the [Irish Channel](https://en.wikipedia.org/wiki/Irish_Channel,_New_Orleans#History).
 
+### Places of Interest
+
+
+### Maps
  <img src="{{site.url}}/images/new-orleans-redo-beige.jpg" />
  <img src="{{site.url}}/images/garden-district.png" />
  <img src="{{site.url}}/images/french-quarter.png" />
 
-### Places of Interest
+
  
