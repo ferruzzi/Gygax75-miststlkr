@@ -1,7 +1,7 @@
 # Concepts
  1. Gritty modern age urban fantasy set in the real world
  2. All players are human or fey half-breeds who can pass as human; the choice has no effect on stats
-    - Spellcasters are half-breeds and non-casters are human or less-than-half breeds
+    - Spell casters are half-breeds and non-casters are human or less-than-half breeds
  3. Magic exists but is very rare; average person does not believe in it
  4. Casters know one skill/spell/power and that skill evolves over time
     - At creation you choose one spell theme (fire, travel, healing, luck, etc) and X attributes (ranged, sustained, AoE, 
@@ -20,6 +20,32 @@
    - Sorcerers are powerful mostly-one-trick ponies who need other skills to remain useful
  - The Matrix
    - Some thematic elements as far as a band of underdog rebels on the lam fighting The Man 
+
+# Questions
+ - Why on earth would anyone play this?  Sample character concepts:
+   - A coven of hedge witches banding together to fight for scraps from The Organization
+   - A human who lost a sorcerous loved one to The Organization and wants revenge
+   - A local merchant who was helped by a sorcerer and has joined the cause, using their contacts and negotiation skills
+   - A local hunter who entered the wrong glade on th wrong moonlit night and got drawn into this world
+   - A college kid tinkering with "ancient rituals" they found online realizes that one actually worked
+ - What is the goal/point/hook; what is an "adventure" in a setting like this?
+   - There would need to be some kind of general threat that the players can handle; some wee beasties that 
+     normal folks can't see/handle themselves.  Carrying on the fey concept, brownies/sprites/etc are also 
+     real and cause day to day issues of various severity.  These plus standard human issues like gangs can be your 
+     general threat and lower level challenges before being noticed by and dealing with an global conspiracy
+   - Lower levels could focus on carving out a local safe haven helping a neighborhood and winning friends/allies. 
+     Human threats in the form of gangs and sundry hooligans threaten the neighborhood, plus the occasional 
+     malevolent/spiteful pixie that needs to be defeated/relocated/appeased.  Through the course of these challenges, 
+     the players carve out a neighborhood of supporters and allies.
+   - It should be emphasized that murderhobos will draw the attention of The Organization far more quickly and outright
+     murder is to be used as a last resort.  Appease the hungry brownie hunting stray cats, convince the gremlin 
+     turning the produce at Joe's Market sour to move to a wild blueberry patch in the woods instead, set a trap for 
+     the guy breaking into shops and stealing the tills at night so he gets caught, etc.  The extermination of all 
+     wild fey in an area or a body found in an alley _will_ be noticed and investigated by a force much stronger than
+     the players.
+ - What signifies XP/Karma in a setting like this?
+   - It would almost certainly have to be a milestone-based system
+
 
 # Base System
   Currently looking into various superhero systems to find one I like as the envisioned magic system is more akin to a
@@ -54,12 +80,5 @@ This may be an entire future project, but as an example:
      - Level 5 Upgrade: AoE (explodes on command)  
      - Level 6 Upgrade: AoE (larger radius)
   
-# Questions
- - Why on earth would anyone play this?  Sample character concepts:
-   - A coven of hedge witches banding together to fight for scraps from the library
-   - A human who lost a sorcerous loved one to the library and wants revenge
-   -  
- - What is the goal/point/hook; what is an "adventure" in a setting like this?
- - What signifies XP/Karma in a setting like this?
-   - It would almost certainly have to be a milestone-based system
+
   
