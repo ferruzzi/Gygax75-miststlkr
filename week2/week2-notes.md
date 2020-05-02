@@ -17,7 +17,7 @@ __Note 2__: I attempted the extra credit step of "pimp your map using coffee sta
 Our adventure will take place in modern New Orleans, focusing initially on
  [The Garden District](https://en.wikipedia.org/wiki/Garden_District,_New_Orleans#History)
  and the [Irish Channel](https://en.wikipedia.org/wiki/Irish_Channel,_New_Orleans#History).  Naturally some liberties
- can and will be taken with regards to landmarks and history.
+ can and will be taken regarding landmarks and history.
 
 ### Places of Interest
 #### Crescent City Used Books 
