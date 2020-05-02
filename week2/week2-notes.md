@@ -7,5 +7,7 @@ __Note:__ I attempted the extra credit step of "pimp your map using coffee stain
  
 
  <img src="{{site.url}}/images/new-orleans-redo-beige.jpg" style="display:block; margin:auto;" />
+ <img src="{{site.url}}/images/french-quarter.png" style="display:block; margin:auto;" />
  
  [Home](../index.md)
+ [Week 1: Concepts](../week1/week1-notes.md)

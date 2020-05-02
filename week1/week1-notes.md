@@ -1,3 +1,10 @@
+<table width="100%"> 
+   <tr>
+     <td>[Home](../index.md)</td>
+     <td>[Week 2: Surrounding Area](../week2/week2-notes.md)</td>
+   </tr>
+</table>
+ 
 # Concepts - <span style="font-size:large;">Articulate the big ideas and gather sources</span>
  1. Gritty modern age urban fantasy set in the real world
  2. All players are human or fey half-breeds who can pass as human
@@ -82,7 +89,3 @@ This may be an entire future project, but as an example:
      - Level 4 Upgrade: Movable (add range)
      - Level 5 Upgrade: AoE (explodes on command)  
      - Level 6 Upgrade: AoE (larger radius)
-  
-<span align="center">
-  [Home](../index.md) - [Week 2: Surrounding Area](../week2/week2-notes.md)
- </span>
