@@ -18,17 +18,21 @@ Our adventure will take place in modern New Orleans, focusing initially on [The 
 ### Places of Interest
 #### Crescent City Used Books
 **Location**: Magazine St and Fourth St
+
 **Public Interest**: A used book store run by a kindly old widower who will talk your ear off. 
+
 **Special Interest**: Run by a half-fey who keeps an impressive collection of Special Interest books in the back
  room for those who know to ask.
   
-#### Riverwalk Market
+#### Riverwalk Market (Actually based more off Seattle's Pike Place Market)
 **Location**: Poydras St and Canal St (technically off the map, see description)
+
 **Public Interest**: Three floors of shopping on the old wharf.  The public ground/entrance floor contains mainly a
  collection of shops selling various crafts aimed at the many tourists.  The upper floor is made up predominantly of 
  food vendors and restaurants taking advantage of the elevation to show views of the Mississippi River.  One floor 
  down from the entrance is a bit more eccentric, filled with niche specialty shops who can only survive because of 
  the lower rent of the underground location on the waterfront.  
+
 **Special Interest**: All three floors are connected by a confusing series of ramps rather than stairs or elevators.  This 
  has made it possible to obscure the fact that if you know where to look, one ramp will lead  down further into The 
  Submarket.  Shops in The Submarket cater to the Others and get increasing more esoteric.  It consists of several more 
@@ -37,19 +41,25 @@ Our adventure will take place in modern New Orleans, focusing initially on [The 
     
 #### Suave Swanky Other Hangout - they can't all live in the basement
 **Location**: W Hotel comes to mind?  
+
 **Public Interest**:
+
 **Special Interest**:
 
-#### Lafayette Cemetery
+#### Lafayette Cemetery ([images](https://tinyurl.com/y6wtx38z))
 **Location**: Washington Ave at Prytania St
+
 **Public Interest**:
+
 **Special Interest**:
 
-#### Commander's Palace
+#### Commander's Palace ([images](https://tinyurl.com/y8rrwyyx))
 **Location**:
+
 **Public Interest**: One of the oldest continuously-running restaurants in North America, it must have some interesting
  connections to old-world old-money.  Possibly a stronghold of The Organization, or maybe they are based out of one
  of the mansions further uptown near the Audubahn?
+
 **Special Interest**:   
 
 #### Christ Church Cathedral ([images](https://tinyurl.com/y7kp2xes))
