@@ -1,4 +1,4 @@
-# Concepts - <span style="font-size:medium;">Articulate the big ideas and gather sources</span>
+# Concepts - <span style="font-size:large;">Articulate the big ideas and gather sources</span>
  1. Gritty modern age urban fantasy set in the real world
  2. All players are human or fey half-breeds who can pass as human
     - The choice has no effect on stats
