@@ -2,6 +2,6 @@
 ---
 
 @import "{{ jekyll-theme-slate }}";
-.page {
-  width: calc(100% - #{$right-sidebar-width-narrow});
+.inner {
+  max-width: 1080px;
 }
