@@ -4,7 +4,7 @@
  Week 3: Coming Soon
 </div>
 
-# Week 2: The Surrounding Area <br /> <span style="font-size:large;">Map the land around the dungeon and town</span>
+# Week 2: The Surrounding Area - <span style="font-size:large;">Map the land around the dungeon and town</span>
 __Note__:  As this is an urban setting, I'll have to change this up a little.  Rather than mapping out the area
  surrounding a town and a dungeon entrance, I'll map out a neighborhood and points of interest.
   
@@ -16,7 +16,8 @@ Our adventure will take place in modern New Orleans, focusing initially on [The 
  and the [Irish Channel](https://en.wikipedia.org/wiki/Irish_Channel,_New_Orleans#History).
 
 ### Places of Interest
-
+<p>Lots, Many, and All
+</p>
 
 ### Maps
  <img src="{{site.url}}/images/new-orleans-redo-beige.jpg" />
