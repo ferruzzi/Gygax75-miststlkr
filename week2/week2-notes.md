@@ -1,6 +1,5 @@
 <div align="center">
- <a href ="{{site.url}}/week1/week1-notes.html">Week 1: Concepts</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
- ;&nbsp;&nbsp; 
+ <a href ="{{site.url}}/week1/week1-notes.html">Week 1: Concepts</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
  <a href="{{site.url}}/index.html">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
  Week 3: Coming Soon
 </div>
@@ -16,7 +15,7 @@ __Note:__ I attempted the extra credit step of "pimp your map using coffee stain
 Our adventure will take place in modern New Orleans, focusing initially on [The Garden District](https://en.wikipedia.org/wiki/Garden_District,_New_Orleans#History)
  and the [Irish Channel](https://en.wikipedia.org/wiki/Irish_Channel,_New_Orleans#History).
 
- <img src="{{site.url}}/images/new-orleans-redo-beige.jpg" style="display:block; margin:auto;" /><br />
- <img src="{{site.url}}/images/garden-district.png" style="display:block; margin:auto;" /><br />
- <img src="{{site.url}}/images/french-quarter.png" style="display:block; margin:auto;" />
+ <img src="{{site.url}}/images/new-orleans-redo-beige.jpg" />
+ <img src="{{site.url}}/images/garden-district.png" />
+ <img src="{{site.url}}/images/french-quarter.png" />
 
