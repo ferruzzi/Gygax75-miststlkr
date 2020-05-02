@@ -1,7 +1,9 @@
+<div align="center">
  [Week 1: Concepts](../week1/week1-notes.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Home
  ](../index.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Week 3: Coming Soon
+</div>
 
-# Week 2: The Surrounding Area \s\s <span style="font-size:large;">Map the land around the dungeon and town</span>
+# Week 2: The Surrounding Area <br /> <span style="font-size:large;">Map the land around the dungeon and town</span>
 __Note__:  As this is an urban setting, I'll have to change this up a little.  Rather than mapping out the area
  surrounding a town and a dungeon entrance, I'll map out a neighborhood and points of interest.
   
@@ -10,5 +12,4 @@ __Note:__ I attempted the extra credit step of "pimp your map using coffee stain
  
 
  <img src="{{site.url}}/images/new-orleans-redo-beige.jpg" style="display:block; margin:auto;" />
- ![Alt Text]({{site.url}}/images/french-quarter.png "French Quarter")
  <img src="{{site.url}}/images/french-quarter.png" style="display:block; margin:auto;" />
