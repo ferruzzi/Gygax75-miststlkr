@@ -8,4 +8,4 @@ __Note:__ I attempted the extra credit step of "pimp your map using coffee stain
 
  <img src="{{site.url}}/images/new-orleans-redo-beige.jpg" style="display:block; margin:auto;" />
  
- [Home](index.md)
+ [Home](../index.md)

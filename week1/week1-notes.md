@@ -84,5 +84,5 @@ This may be an entire future project, but as an example:
      - Level 6 Upgrade: AoE (larger radius)
   
 <span align="center">
-  [Home](index.md) - [Week 2: Surrounding Area](week2/week2-notes.md)
+  [Home](../index.md) - [Week 2: Surrounding Area](../week2/week2-notes.md)
  </span>
