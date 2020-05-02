@@ -1,3 +1,5 @@
+<script src="{{site.assets}}/javascript/script.js"></script>
+
 # Gygax75 Challenge
 _Create an RPG campaign setting in five weeks!_
 
