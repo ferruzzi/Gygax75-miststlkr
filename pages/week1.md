@@ -17,10 +17,10 @@
     - Spell casters are half-breeds and non-casters are human or distant fey descendants
  3. Magic exists but is very rare; average person does not believe in it
  4. Casters know one skill/spell/power and that skill evolves over time
-    - At creation you choose one spell theme (fire, travel, healing, luck, etc) and X attributes (ranged, sustained, AoE, 
-      stealth etc) and gain attributes each level; attributes stack (range plus range = longer range)
+    - At creation, you choose one spell theme (fire, travel, healing, luck, etc) and X attributes (ranged, sustained
+    , AoE, stealth etc) and gain attributes each level; attributes stack (range plus range = longer range)
  5. Casters are actively hunted by a shadowy organization
-    - _"There are two types of casters: those who hide their powers and those strong enough to defend themselves"_ - 
+    - _"There are two types of casters: those who hide their powers, and those strong enough to defend themselves"_ - 
     Some Smart Guy With A Thematically Appropriate  Name
  6. Magic has a cost; every spell cast has to be balanced against the price paid, spells can be overcharged if you are willing to make the sacrifice
  
@@ -44,19 +44,20 @@
    - A local hunter entered the wrong glade on the wrong moonlit night and got drawn into this world
    - A college kid tinkering with "ancient rituals" they found online realizes one actually worked
  - What is the goal/point/hook; what is an "adventure" in a setting like this?
-   - There would need to be some kind of general threat that the players can handle; some wee beasties that normal folks can't see/handle themselves.  All mythical creatures are real and the players could be called on to 
+   - There would need to be some kind of general threat that the players can handle; some wee beasties that normal
+     folks can't see/handle themselves.  All mythical creatures are real, and the players could be called on to 
      deal with any of those.  Carrying on the fey concept, brownies/sprites/etc are real and cause day to day issues of 
      various severity.  These plus standard human issues like gangs can be your general threat and lower level 
      challenges before being noticed by and dealing with an global conspiracy.
    - Lower levels could focus on carving out a local safe haven helping a neighborhood and winning friends/allies. 
      Human threats in the form of gangs and sundry hooligans threaten the neighborhood, plus the occasional 
-     malevolent/spiteful pixie that needs to be defeated/relocated/appeased.  Through the course of these challenges, 
+     malevolent/spiteful pixie who needs to be defeated/relocated/appeased.  Through the course of these challenges, 
      the players carve out a neighborhood of supporters and allies.
    - It should be emphasized that murderhobos will draw the attention of The Organization far more quickly and outright
      murder is to be used as a last resort.  Appease the hungry brownie hunting stray cats, convince the gremlin 
      turning the produce at Joe's Market sour to move to a wild blueberry patch in the woods instead, set a trap for 
      the guy breaking into shops and stealing the tills at night so he gets caught by the cops, etc.  The extermination
-     of all wild fey in an area or a body found in an alley _will_ be noticed and investigated by a force much stronger
+     of wild fey in an area or a body found in an alley _will_ be noticed and investigated by a force much stronger
      than the players, be it The Organization or the mortal law enforcement.
  - What signifies XP/Karma in a setting like this?
    - It would almost certainly have to be a milestone-based system
