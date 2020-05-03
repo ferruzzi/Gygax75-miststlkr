@@ -17,7 +17,7 @@ __Note 2__: I attempted the extra credit step of "pimp your map using coffee sta
 Our adventure will take place in modern New Orleans, focusing initially on
  [The Garden District](https://en.wikipedia.org/wiki/Garden_District,_New_Orleans#History)
  and the [Irish Channel](https://en.wikipedia.org/wiki/Irish_Channel,_New_Orleans#History).  Naturally some liberties
-  can and will be taken regarding landmarks and history.
+ can and will be taken regarding landmarks and history.
 
 ### Places of Interest
 #### Crescent City Used Books 
@@ -43,12 +43,13 @@ Our adventure will take place in modern New Orleans, focusing initially on
  more floors of shops and dining, well below the point where you should be in the river.  There is a direct entrance to 
  this section through a basement door in the old ferry terminal at the end of Jackson Street.
     
-#### Suave Swanky Other Hangout - they can't all live in the basement
+#### Super Swanky Modern Hotel 
 **Location**: W Hotel comes to mind?  
 
-**Public Interest**:
+**Public Interest**: A posh hotel and nightclub, hangout for the young rich.
 
-**Special Interest**:
+**Special Interest**:  Secretly run by a friendly law-abiding incubus; resting place and common place to do business for
+ may affluent Others
 
 #### Lafayette Cemetery ([images](https://tinyurl.com/y6wtx38z))
 **Location**: Washington Ave at Prytania St
@@ -60,6 +61,7 @@ Our adventure will take place in modern New Orleans, focusing initially on
 **Special Interest**: Something something underground something ancient cemetery something something. 
 
 #### Commander's Palace ([images](https://tinyurl.com/y8rrwyyx))
+[//]: # (TODO)
 **Location**: Washington Ave at Coliseum St
 
 **Public Interest**: One of the oldest continuously-running restaurants in North America, it must have some
@@ -70,18 +72,19 @@ Our adventure will take place in modern New Orleans, focusing initially on
  Organization to their haughty mansions and manors uptown
 
 #### Christ Church Cathedral ([images](https://tinyurl.com/y7kp2xes))
+[//]: # (TODO)
 **Location**: St Charles Ave at Sixth St
 
-**Public Interest**: The Christ Church Cathedral is the first non-Roman Catholic Church in the state of Louisiana. The
+**Public Interest**: The Christ Church Cathedral was the first non-Roman Catholic Church in the state of Louisiana. The
  church, originally erected in 1816 at Canal and Bourbon Streets, was redesigned three times to compensate its growing 
  membership.
 
-**Special Interest**:  
+**Special Interest**: 
 
 #### Anne Rice Mansion ([images](https://tinyurl.com/ycxahccy))
-**Location**: Napolean Ave at Prytania St
+**Location**: Napoleon Ave at Prytania St
 
-**Public Interest**: The home that Anne Rice lived in while writing _Interview With The Vampire_ and other novels.
+**Public Interest**: The home Anne Rice lived in while writing _Interview With The Vampire_ and other novels.
 
 **Special Interest**: You didn't really believe those novels were all fiction, did you?
 
@@ -92,7 +95,7 @@ Our adventure will take place in modern New Orleans, focusing initially on
 
 **Special Interest**: Popular local hangout for the younger (that can be a very relative term) crowd, 24-hour service
  makes it suitable for meeting Others who can pass as human. 
-
+ 
 #### Breaux Mart
 **Location**:  Camp St at Pleasant St
 
@@ -100,19 +103,19 @@ Our adventure will take place in modern New Orleans, focusing initially on
 
 **Special Interest**: Use the underground entrance through the adjacent Montiero Park for an even more exciting
  selection  
-
+ 
 #### Landreneau's Antiques
 **Location**: (fictional) Magazine St at General Pershing St
 
 **Public Interest**: An antique shop absolutely packed with all sorts of random ~~junk~~ treasures of every
- description.  The shop has been run by the same family since the 1800's and some locals joke that most of the
-  inventory was there when they opened.  It's a popular stop for tourists and local artists.  The shopkeep loves a
+ description.  The shop has been run by the same family since the 1800's; some locals joke that most of the
+  inventory was there when they opened.  It's a popular stop for tourists and local artists.  The shopkeeper loves a
   challenge and will gladly take a commission to hunt down a particular vintage item if you have something special in
   mind.
        
 **Special Interest**: The shopkeeper's connections go much deeper than normal folks would suspect.  This (man?) can
  find you a ceremonial dagger from ancient Athens or a vial of purple nightshade extract if your pockets are deep
- enough and you know how to ask. 
+ enough, and you know how to ask. 
 
 ### Maps
 <img src="{{site.assets}}/images/new-orleans-redo-beige.jpg" />
