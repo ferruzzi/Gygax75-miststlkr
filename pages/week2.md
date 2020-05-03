@@ -121,7 +121,8 @@ Our adventure will take place in modern New Orleans, focusing initially on
  enough, and you know how to ask. 
 
 ### Maps
-<img src="{{site.assets}}/images/new-orleans-redo-beige.jpg" />
+
+<img src="{{site.assets}}/images/new-orleans-redo-beige.jpg" style="border: 3px solid #373737;"/>
 
 <img src="{{site.assets}}/images/garden-district.png" style="border: 3px solid #373737;" />
 
