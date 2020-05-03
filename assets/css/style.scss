@@ -16,14 +16,12 @@ table {
 }
 
 table tr {
-  border: none;
+
 }
 
 table td {
   text-align: center;
-  border-radius: 25px;
-  margin-left: 100px;
-  margin-right: 100px;
+  border: none;
 }
 
 img {
@@ -38,7 +36,7 @@ p {
 
 #navbar {
   width: 100%;
-  background: white;
+  background: grey;
   border: 1px solid black;
   padding: 10px;
   padding-top: 30px;
