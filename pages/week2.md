@@ -1,7 +1,7 @@
 <script src="{{site.assets}}/javascript/script.js"></script>
 
 <div id="navbar" align="center">
-  <table border="0" cellpadding="0"> 
+  <table> 
     <tr>
       <td><a href ="{{site.url}}/pages/week1.html">Week 1: Concepts</a></td>
       <td><a href="{{site.url}}/index.html">Home</a></td> 
