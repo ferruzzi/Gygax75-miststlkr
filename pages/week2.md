@@ -124,6 +124,6 @@ Our adventure will take place in modern New Orleans, focusing initially on
 ### Maps
 <img src="{{site.assets}}/images/new-orleans-redo-beige.jpg" />
 
-<img src="{{site.assets}}/images/garden-district.png" style:=""border: 5px solid black;" />
+<img src="{{site.assets}}/images/garden-district.png" style=""border: 5px solid black;" />
 
 <img src="{{site.assets}}/images/french-quarter.png" />
