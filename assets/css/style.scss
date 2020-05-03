@@ -1,26 +1,23 @@
 ---
 ---
 @import "{{ site.theme }}";
-.inner {
-  max-width: 900px;
-}
 
-#forkme_banner {
-  display: none;
-}
+#forkme_banner { display: none; }
 
-table {
-  width: 90%;
-}
+#footer_wrap { display: none; }
+
+#project_tagline { color: grey; }
+
+h4 { text-indent: 1em; }
+
+table { width: 90%; }
+
+tr { border: none; }
 
 td {
   text-align: center;
   text-size: bigger;
   border: none;
-}
-
-#footer_wrap {
-  display: none;
 }
 
 img {
@@ -33,13 +30,13 @@ p {
   text-indent: -1em;
 }
 
-h4 {
-  text-indent: 1em;
-}
-
 #navbar {
   width: 100%;
   background: #FCFCFC;
   border: 1px solid black;
   padding: 10px;
+}
+
+.inner {
+  max-width: 900px;
 }

@@ -1,1 +1,1 @@
-document.getElementById("project_title").innerHTML = "Just Another Untitled and Unfinished Zoph Project";
+document.getElementById("project_title").innerHTML = "Yet Another Untitled and Unfinished Zoph Project";
