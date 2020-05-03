@@ -79,9 +79,8 @@ Our adventure will take place in modern New Orleans, focusing initially on
 [//]: # (TODO)
 **Location**: St Charles Ave at Sixth St
 
-**Public Interest**: The Christ Church Cathedral was the first non-Roman Catholic Church in the state of Louisiana. The
- church, originally erected in 1816 at Canal and Bourbon Streets, was redesigned three times to compensate its growing 
- membership.
+**Public Interest**: Originally erected in 1816, the Christ Church Cathedral was the first non-Roman Catholic Church
+ in the state of Louisiana.
 
 **Special Interest**: 
 
@@ -113,16 +112,16 @@ Our adventure will take place in modern New Orleans, focusing initially on
 
 **Public Interest**: An antique shop absolutely packed with all sorts of random ~~junk~~ treasures of every
  description.  The shop has been run by the same family since the 1800's; some locals joke that most of the
-  inventory was there when they opened.  It's a popular stop for tourists and local artists.  The shopkeeper loves a
-  challenge and will gladly take a commission to hunt down a particular vintage item if you have something special in
-  mind.
+ inventory was there when they opened.  It's a popular stop for tourists and local artists.  The shopkeeper loves a
+ challenge and will gladly take a commission to hunt down a particular vintage item if you have something special in
+ mind.
        
 **Special Interest**: The shopkeeper's connections go much deeper than normal folks would suspect.  This (man?) can
  find you a ceremonial dagger from ancient Athens or a vial of purple nightshade extract if your pockets are deep
  enough, and you know how to ask. 
 
 ### Maps
-<img src="{{site.assets}}/images/new-orleans-redo-beige.jpg" style="border: 3px solid #373737;" />
+<img src="{{site.assets}}/images/new-orleans-redo-beige.jpg" />
 
 <img src="{{site.assets}}/images/garden-district.png" style="border: 3px solid #373737;" />
 
