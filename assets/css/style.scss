@@ -38,12 +38,13 @@ p {
 
 a {
   text-decoration-style: dotted;
-  color: black;
+  text-decoration: underline;
+  color: #373737;
 }
 
 #navbar {
   width: 100%;
-  background: grey;
+  background: white;
   border: 1px solid black;
   padding-top: 30px;
   border-radius: 25px;
