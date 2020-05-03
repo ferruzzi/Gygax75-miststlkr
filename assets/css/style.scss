@@ -16,13 +16,13 @@ table {
 }
 
 tr {
-  border: none;
+
 }
 
 td {
   text-align: center;
   text-size: large;
-
+border: none;
 }
 
 img {
@@ -37,7 +37,7 @@ p {
 
 #navbar {
   width: 100%;
-  background: #FCFCFC;
+  background: #red;
   border: 1px solid black;
   padding: 10px;
   padding-top: 30px;
