@@ -36,9 +36,14 @@ p {
   text-indent: -1em;
 }
 
+a {
+  text-decoration-style: dotted;
+  color: black;
+}
+
 #navbar {
   width: 100%;
-  background: white;
+  background: grey;
   border: 1px solid black;
   padding-top: 30px;
   border-radius: 25px;

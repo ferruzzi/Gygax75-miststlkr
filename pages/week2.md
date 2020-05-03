@@ -10,7 +10,7 @@
   </table>
 </div>
 
-# Week 2: The Surrounding Area - <span style="font-size: smaller;">Map the land around the dungeon and town</span>
+# Week 2: The Surrounding Area - <span style="font-size: small;">Map the land around the dungeon and town</span>
 __Note 1__:  As this is an urban setting, I'll have to change this up a little.  Rather than mapping out the area
   surrounding a town and a dungeon entrance, I'll map out a neighborhood and points of interest.
   
