@@ -2,7 +2,7 @@
 
 <div align="center"> 
  <a href="{{site.url}}/index.html">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
- <a href="{{site.url}}/week2/week2-notes.html">Week 2: Surrounding Area</a>
+ <a href="{{site.url}}/pages/week2.html">Week 2: Surrounding Area</a>
 </div>
 
  
