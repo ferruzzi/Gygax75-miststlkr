@@ -1,10 +1,14 @@
 <script src="{{site.assets}}/javascript/script.js"></script>
 
-<div id="navbar" align="center"> 
- <a href="{{site.url}}/index.html">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
- <a href="{{site.url}}/pages/week2.html">Week 2: Surrounding Area</a>
+<div id="navbar" align="center">
+  <table> 
+    <tr> 
+      <td></td>
+      <td><a href="{{site.url}}/index.html">Home</a></td> 
+      <td><a href="{{site.url}}/pages/week2.html">Week 2: Surrounding Area</a></td>
+    </tr>
+  </table>
 </div>
-
  
 # Week 1: Concepts - <span style="font-size:large;">Articulate the big ideas and gather sources</span>
  1. Gritty modern age urban fantasy set in the real world
