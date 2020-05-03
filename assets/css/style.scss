@@ -22,6 +22,7 @@ table td {
   text-align: center;
   padding: auto;
   border: none;
+  border-radius: 25px;
   width: 35%;
 }
 
@@ -37,9 +38,10 @@ p {
 
 #navbar {
   width: 100%;
-  background: grey;
+  background: white;
   border: 1px solid black;
   padding-top: 30px;
+  border-radius: 25px;
 }
 
 .inner {
