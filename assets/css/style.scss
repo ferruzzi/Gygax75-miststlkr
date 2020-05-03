@@ -2,6 +2,9 @@
 ---
 @import "{{ site.theme }}";
 
+body { font-size: +20%; }
+h1 { color: blue; }
+
 #forkme_banner { display: none; }
 
 #footer_wrap { display: none; }
@@ -43,7 +46,7 @@ a {
 
 #navbar {
   width: 100%;
-  background: #EBECF0;
+  background: #BEBEBE;
   border: 1px solid black;
   padding-top: 30px;
   border-radius: 25px;
