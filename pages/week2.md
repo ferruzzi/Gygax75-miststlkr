@@ -1,6 +1,6 @@
 <script src="{{site.assets}}/javascript/script.js"></script>
 
-<div align="center">
+<div id="navbar" align="center">
  <a href ="{{site.url}}/pages/week1.html">Week 1: Concepts</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
  <a href="{{site.url}}/index.html">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
  Week 3: Coming Soon
