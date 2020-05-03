@@ -1,9 +1,13 @@
 <script src="{{site.assets}}/javascript/script.js"></script>
 
 <div id="navbar" align="center">
- <a href ="{{site.url}}/pages/week1.html">Week 1: Concepts</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
- <a href="{{site.url}}/index.html">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
- Week 3: Coming Soon
+  <table border="0" cellpadding="0"> 
+    <tr>
+      <td><a href ="{{site.url}}/pages/week1.html">Week 1: Concepts</a></td>
+      <td><a href="{{site.url}}/index.html">Home</a></td> 
+      <td>Week 3: Coming Soon</td>
+    </tr>
+  </table>
 </div>
 
 # Week 2: The Surrounding Area - <span style="font-size:large;">Map the land around the dungeon and town</span>
