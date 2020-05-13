@@ -5,7 +5,7 @@
     <tr>
       <td><a href ="{{site.url}}/pages/week1.html">Week 1: Concepts</a></td>
       <td><a href="{{site.url}}/index.html">Home</a></td> 
-      <td><a href ="{{site.url}}/pages/week1.html">Week 3: The Dungeon</a></td>
+      <td><a href ="{{site.url}}/pages/week3.html">Week 3: The Dungeon</a></td>
     </tr>
   </table>
 </div>
