@@ -22,7 +22,8 @@
  5. Casters are actively hunted by a shadowy organization
     - _"There are two types of casters: those who hide their powers, and those strong enough to defend themselves"_ - 
     Some Smart Guy With A Thematically Appropriate  Name
- 6. Magic has a cost; every spell cast has to be balanced against the price paid, spells can be overcharged if you are willing to make the sacrifice
+ 6. Magic has a cost; every spell cast has to be balanced against the price paid, spells can be overcharged if you
+    are willing to make the sacrifice
  
 # Inspirations
  - The Dresden Files

@@ -7,6 +7,6 @@ _Create an RPG campaign setting in five weeks!_
 
  - [Week 1: Concepts](pages/week1.md) - Modern era urban fantasy 
  - [Week 2: Surrounding Area](pages/week2.md) - New Orleans
- - Week 3: The Dungeon
+ - [Week 3: The Dungeon](pages/week2.md) - The Buckner Mansion
  - Week 4: Town Features
  - Week 5: The Larger World

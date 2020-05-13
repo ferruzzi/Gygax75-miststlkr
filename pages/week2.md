@@ -5,7 +5,7 @@
     <tr>
       <td><a href ="{{site.url}}/pages/week1.html">Week 1: Concepts</a></td>
       <td><a href="{{site.url}}/index.html">Home</a></td> 
-      <td>Week 3: Coming Soon</td>
+      <td><a href ="{{site.url}}/pages/week1.html">Week 3: The Dungeon</a></td>
     </tr>
   </table>
 </div>
@@ -84,7 +84,7 @@ Our adventure will take place in modern New Orleans, focusing initially on
 
 **Special Interest**: 
 
-#### Anne Rice Mansion ([images](https://tinyurl.com/ycxahccy))
+#### Brevard House ([images](https://tinyurl.com/ycxahccy))
 **Location**: Napoleon Ave at Prytania St
 
 **Public Interest**: The home Anne Rice lived in while writing _Interview With The Vampire_ and other novels.
