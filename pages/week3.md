@@ -40,37 +40,35 @@ pyramid scheme "I got rich almost overnight and for only $xxxx I can show you my
 Note that since the occupants of the house will vary depending on when the party gains access, three samples will be 
 given for each map: Daytime, Nighttime, and Gala.
 
-<!-- Challenge: d6+6 rooms per level, 11 monsters total, d6 features (traps, etc) total, 3 wondrous items total />
+((Challenge: d6+6 rooms per level, 11 monsters total, d6 features (traps, etc) total, 3 wondrous items total ))
 
 Family Unit
-    Husband - middle aged; newly rich; suspicious; splurging
-    Wife - suspects a mistress; 
-    20s daughter - Daddy's Girl; Tulane student; science nerd
-    Wife mother - speaks English, but not to strangers; old world mystic???; always cooking; healthier than she lets on
-    Boyfriend - fellow student; serious relationship; occasionally stays over; parents tolerate him
+ - Husband - middle aged; newly rich; suspicious; splurging
+ - Wife - suspects a mistress; 
+ - 20s daughter - Daddy's Girl; Tulane student; science nerd
+ - Wife mother - speaks English, but not to strangers; old world mystic???; always cooking; healthier than she lets on
+ - Boyfriend - fellow student; serious relationship; occasionally stays over; parents tolerate him
 
 Nighttime occupants:
-  guard 1
-  guard 2
-  guard 3
-  mother
-  husband
-  wife
-  daughter
-  boyfriend?
+ - guard 1
+ - guard 2
+ - guard 3
+ - mother
+ - husband
+ - wife
+ - daughter
+ - boyfriend?
   
 Gala:
- place is packed
- roaming serving staff
- additional roaming security
- valet
- coat check
- caterers
+ - place is packed
+ - roaming serving staff
+ - additional roaming security
+ - valet
+ - coat check
+ - caterers
  
-11. Kitchen -  
-
-#### Ground Floor:
-##### Daytime
+### Ground Floor:
+#### Daytime
  - Two discrete local thugs outside; one usually sitting on the porch (1) and the other doing yardwork
  - Two cleaning staff may be in any room, roll d12 for each at the time of entry to determine their current location
  - Husband: works from home, 50/50 chance Library (4) or Office (6); weekends roll 2d4 for location
@@ -79,7 +77,7 @@ Gala:
  - Mother is almost always at work on something or other; there is never NOT food laying around in this house
    - roll d6; 1-3: Kitchen(11), 4-5: Pantry (12), 5: roll d12 for wandering granny location
 
-##### Nighttime
+#### Nighttime
  1. Main Entrance - 
  2. Foyer - 
  3. Parlor - 
@@ -93,7 +91,7 @@ Gala:
 11. Kitchen -  
 12. Pantry -  
 
-##### Gala Night
+#### Gala Night
  1. Main Entrance - 
  2. Foyer - 
  3. Parlor - 
@@ -107,17 +105,17 @@ Gala:
 11. Kitchen -  
 12. Pantry -   
 
-#### Upstairs:
-##### Daytime
+### Upstairs:
+#### Daytime
 
-##### Nighttime
+#### Nighttime
 
-##### Gala Night
+#### Gala Night
 
-#### Basement:
-##### Daytime
+### Basement:
+#### Daytime
 
-##### Nighttime
+#### Nighttime
 
-##### Gala Night
+#### Gala Night
 
