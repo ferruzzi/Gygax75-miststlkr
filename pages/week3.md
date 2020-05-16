@@ -84,7 +84,7 @@ given for each map: Daytime, Evening, and Gala.
 
 ### Upstairs:
 
-<img src="{{site.assets}}/images/grinnan-second.jpg" style="border: 3px solid #373737;"/>
+<img src="{{site.assets}}/unused/grinnan-second.jpg" style="border: 3px solid #373737;"/>
 
  - #### Daytime
  - #### Nighttime
