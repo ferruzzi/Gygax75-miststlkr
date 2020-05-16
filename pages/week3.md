@@ -24,12 +24,11 @@ that, in a world which does not generally believe in Others, where/how did this 
 managed to keep it trapped?  Further adventures may uncover a larger conspiracy, a smuggling ring, perhaps it's a 
 pyramid scheme "I got rich almost overnight and for only $xxxx I can show you my secrets!"
 
+Built in 1850, this house has famously few modifications from the original design.  
 
 ### Maps, Descriptions, and Pictures
 
 <img src="{{site.assets}}/images/grinnan.jpg" style="border: 3px solid #373737;"/>
-
-<img src="{{site.assets}}/images/grinnan-first.jpg" style="border: 3px solid #373737;"/>
 
 <img src="{{site.assets}}/images/grinnan-second.jpg" style="border: 3px solid #373737;"/>
 
@@ -47,6 +46,9 @@ Note that since the occupants of the house will vary depending on when the party
  - Boyfriend - fellow student; serious relationship; occasionally stays over; parents tolerate him
  
 ### Ground Floor:
+
+<img src="{{site.assets}}/images/grinnan-ground.jpg" style="border: 3px solid #373737;"/>
+
 #### Daytime
  - Two discrete local thugs outside; one usually sitting on the porch (1) and the other doing yardwork
  - Two cleaning staff may be in any room, roll d12 for each at the time of entry to determine their current location
