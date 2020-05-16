@@ -125,5 +125,3 @@ Our adventure will take place in modern New Orleans, focusing initially on
 <img src="{{site.assets}}/images/new-orleans-redo-beige.jpg" style="border: 3px solid #373737;"/>
 
 <img src="{{site.assets}}/images/garden-district.png" style="border: 3px solid #373737;" />
-
-<img src="{{site.assets}}/images/french-quarter.png" style="border: 3px solid #373737;" />

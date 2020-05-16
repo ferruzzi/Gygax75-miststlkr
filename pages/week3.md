@@ -49,7 +49,7 @@ Note that since the occupants of the house will vary depending on when the party
 
 <img src="{{site.assets}}/images/grinnan-ground.png" style="border: 3px solid #373737;"/>
 
-#### Daytime
+ - #### Daytime
    - Two discrete local thugs outside; one usually sitting on the porch (1) and the other doing yardwork
    - Two cleaning staff may be in any room, roll d12 for each at the time of entry to determine their current location
    - Husband: works from home, 50/50 chance Library (4) or Office (6); weekends roll d8 for location
