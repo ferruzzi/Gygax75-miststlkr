@@ -47,7 +47,7 @@ Note that since the occupants of the house will vary depending on when the party
  
 ### Ground Floor:
 
-<img src="{{site.assets}}/images/grinnan-ground.jpg" style="border: 3px solid #373737;"/>
+<img src="{{site.assets}}/images/grinnan-ground.png" style="border: 3px solid #373737;"/>
 
 #### Daytime
  - Two discrete local thugs outside; one usually sitting on the porch (1) and the other doing yardwork
