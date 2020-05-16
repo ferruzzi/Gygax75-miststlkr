@@ -36,9 +36,6 @@ Detailed historical information and photos available
 
 ### Occupants and Items of Interest
 
-Note that since the occupants of the house will vary depending on when the players gain access, three samples will be
-given for each map: Daytime, Evening, and Gala.
-
 ### Common Occupants
  - **Husband**: middle aged; newly rich; suspicious; splurging
  - **Wife**: suspects a mistress; hard-working career woman;
