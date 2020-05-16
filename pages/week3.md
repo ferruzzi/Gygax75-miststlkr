@@ -50,13 +50,13 @@ Note that since the occupants of the house will vary depending on when the party
 <img src="{{site.assets}}/images/grinnan-ground.png" style="border: 3px solid #373737;"/>
 
 #### Daytime
- - Two discrete local thugs outside; one usually sitting on the porch (1) and the other doing yardwork
- - Two cleaning staff may be in any room, roll d12 for each at the time of entry to determine their current location
- - Husband: works from home, 50/50 chance Library (4) or Office (6); weekends roll 2d4 for location
- - Wife: weekdays she is away at work, weekends roll 2d4 for location
- - Daughter: 50% chance daughter is on S Lanai (7) studying, 50% chance she is out
- - Mother is almost always at work on something or other; there is never NOT food laying around in this house
-   - roll d6; 1-3: Kitchen(11), 4-5: Pantry (12), 5: roll d12 for wandering granny location
+   - Two discrete local thugs outside; one usually sitting on the porch (1) and the other doing yardwork
+   - Two cleaning staff may be in any room, roll d12 for each at the time of entry to determine their current location
+   - Husband: works from home, 50/50 chance Library (4) or Office (6); weekends roll d8 for location
+   - Wife: weekdays she is away at work, weekends roll 2d4 for location
+   - Daughter: 50% chance daughter is on N Lanai (9) studying, 50% chance she is out
+   - Mother is almost always at work on something or other; there is never NOT food laying around in this house
+     - roll d6; 1-3: Kitchen(11), 4-5: Pantry (12), 5: roll d12 for wandering granny
 
 #### Evening
  - guard 1
