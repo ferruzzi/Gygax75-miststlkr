@@ -71,7 +71,7 @@ Detailed historical information and photos available
    - **Wife**: d6 [1-4: with Husband, 5: N Lanai (7), 6: Out]
    - **Daughter**:  d6 [1: with Wife, 2: with Husband, 3: Library (4), 4: Bedroom*, 5-6: Out] 
    - **Boyfriend**: d6 [1-3: with Daughter, 4: with Husband, 5-6: not here]
-  - #### Gala Night
+ - #### Gala Night
    - place is packed
    - roaming serving staff
    - additional roaming security
