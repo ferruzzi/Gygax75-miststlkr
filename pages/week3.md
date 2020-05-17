@@ -37,7 +37,7 @@ Detailed historical information and photos available
 ### Occupants and Items of Interest
 
 ### Common Occupants
- - **Husband**: middle aged; newly rich; suspicious; splurging
+ - **Husband**: middle-aged; newly rich; suspicious; splurging
  - **Wife**: suspects a mistress; hard-working career woman;
  - **20s daughter**: Daddy's Girl; Tulane student; science nerd
  - **Wife's Mother**: speaks English, but not to strangers; old world mystic?; always cooking; healthier than she lets on
@@ -81,7 +81,7 @@ Detailed historical information and photos available
 
 ### Upstairs:
 
-<img src="{{site.assets}}/unused/grinnan-second.jpg" style="border: 3px solid #373737;"/>
+<img src="{{site.assets}}/images/grinnan-upstairs.jpg" style="border: 3px solid #373737;"/>
 
  - #### Daytime
  - #### Nighttime
