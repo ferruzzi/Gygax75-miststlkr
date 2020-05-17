@@ -13,7 +13,7 @@
 # Week 3: The Dungeon - <span style="font-size: large;">Draw and stock three levels of your dungeon</span>
 Challenge: d6+6 rooms per level, 11 monsters total, d6 features (traps, etc) total, 3 wondrous items total
 
-### Adventure Concept:
+## Adventure Concept:
 The plot hook is that one of the _neuveau riche_ has been acting like a fool and is getting scrutinized. Rumours have
 been circulating that the family's sudden turn of fortune is due to enslaving/exploiting an Other (research beasties who
 are supposed to grant/bring luck or money). Players will investigate either out of a desire to save the poor
@@ -34,7 +34,7 @@ Detailed historical information and photos available
 
 <img src="{{site.assets}}/images/grinnan.jpg" style="border: 3px solid #373737;"/>
 
-### Occupants and Items of Interest
+## Occupants and Items of Interest
 
 ### Common Occupants
  - **Husband**: middle-aged; newly rich; suspicious; splurging
