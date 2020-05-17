@@ -81,7 +81,7 @@ Detailed historical information and photos available
 
 ### Upstairs:
 
-<img src="{{site.assets}}/images/grinnan-upstairs.jpg" style="border: 3px solid #373737;"/>
+<img src="{{site.assets}}/images/grinnan-upstairs.png" style="border: 3px solid #373737;"/>
 
  - #### Daytime
  - #### Nighttime
